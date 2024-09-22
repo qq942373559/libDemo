@@ -11,7 +11,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "antd": "^5.20.6"
+    "antd": "^5.20.6",
+    "vite-plugin-libcss": "^1.1.1"
   },
   "peer-dependencies": {
     "@types/node": "^22.5.5",
